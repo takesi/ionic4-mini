@@ -1,0 +1,7 @@
+{
+  "name": "ionic4-mini",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "custom"
+}
